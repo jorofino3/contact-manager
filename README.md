@@ -12,6 +12,7 @@
 </div>
 
   ![npm](https://img.shields.io/npm/v/immer.svg)
+  [![wakatime](https://wakatime.com/badge/github/jorofino3/contact-manager.svg)](https://wakatime.com/badge/github/jorofino3/contact-manager)
   ![Build Status](https://travis-ci.org/immerjs/immer.svg?branch=master)
   ![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)
 
