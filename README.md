@@ -3,7 +3,7 @@
 
   <img width="500" height="300" alt="image" src="app/src/images/project-contact.png">
 
-  <h1>Contact Nanager</h1>
+  <h1>Contact Manager</h1>
 
 
 <!-- Badges -->
